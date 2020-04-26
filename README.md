@@ -1,25 +1,35 @@
-## Основное
+# Простой cra
 
-### Можно потыкать
-* [Простой cra](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-1)
-* [Используем типы компонент](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-2)
-* [Компоненты классы](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-3)
-* [Функциональные компоненты](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-4)
+Для установки достаточно сделать две команды (при условии наличии nodejs)
 
-### Готовится
-* [HTTP](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
-* [Enum / Const в TS](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-6)
-* [Тайпинги](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-7)
-* [Примеры работы с css](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-8)
-* [Как подключать картинку](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-9)
+```bash
+$ npm install -g create-react-app
+$ npx create-react-app my-app-name --typescript # Создастся папка с именем my-app-name
+```
 
-## Дополнительно
-_В процессе_
+В данном примере рассмотрим самый простой запуск приложения.
 
-* Webpack – попробуем сами
-* Nodejs сервер для статики 
-* Webpack dev server 
-* Nginx 
-* Deploy на vps 
-* Docker сборка 
-* Server side rendering vs Client side rendering 
+## Контент
+
+### Структура папок
+
+Очень советую делать папочную структуру компонент и контейнеров, чтобы не разводилось много мусора. Вот как тут:
+```
+
+```
+
+### Структура компоненты
+
+Пример хорошей архитектуры
+```
+```
+
+**index.ts** – файл для:
+* экспорта самой компоненты, типов (если надо);
+* применения [HOC](https://reactjs.org/docs/higher-order-components.html) к компоненте, если таковые нужны.
+
+**types.ts** – файл для описания типов компоненты
+
+**Component.tsx** – файл для описания самой компоненты без лишней логики (описание типов и хоков как раз и выносится в отдельные файлы, чтобы не мусорить)
+
+**Component.css** – файл для описания стилей
