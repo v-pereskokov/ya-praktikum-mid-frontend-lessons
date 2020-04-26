@@ -8,10 +8,10 @@
 
 ### Готовится
 * [HTTP](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
-* [Enum / Const в TS](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
-* [Тайпинги](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
-* [Примеры работы с css](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
-* [Как подключать картинку](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
+* [Enum / Const в TS](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-6)
+* [Тайпинги](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-7)
+* [Примеры работы с css](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-8)
+* [Как подключать картинку](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-9)
 
 ## Дополнительно
 _В процессе_
