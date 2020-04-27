@@ -2,9 +2,9 @@
 
 ### Можно потыкать
 * [Простой cra](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-1)
+* [Используем типы компонент](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-2)
 
 ### Готовится
-* [Используем типы компонент](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-2)
 * [Компоненты классы](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-3)
 * [Функциональные компоненты](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-4)
 * [HTTP](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
