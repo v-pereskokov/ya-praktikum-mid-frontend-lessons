@@ -27,3 +27,4 @@ _В процессе_
 * Deploy на vps 
 * Docker сборка 
 * Server side rendering vs Client side rendering 
+* Безопасность веб-приложений
