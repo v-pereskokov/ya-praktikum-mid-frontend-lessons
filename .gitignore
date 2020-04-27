@@ -1,7 +1,7 @@
 node_modules
 yarn.lock
 package-lock.json
-idea/*
+.idea/*
 .DS_Store
 .vscode
 .module-cache
