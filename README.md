@@ -19,7 +19,8 @@
 ## Дополнительно
 _В процессе_
 
-* Webpack – попробуем сами
+* Webpack – попробуем сами (ts, postcss, assets ...)
+* Webpack – потрогаем eject
 * Nodejs сервер для статики 
 * Webpack dev server 
 * Nginx 
