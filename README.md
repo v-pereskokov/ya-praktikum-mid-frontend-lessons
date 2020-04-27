@@ -21,8 +21,8 @@ export type Props = FC<OwnProps>;
 **alt** – Также необязательный пропс, потому что альт может мы осознанно не хотим добавлять. (для примера)  
 
 Ниже уже для продвинутого использования react. Перед чтением ниже нужно ознакомиться с:
-* мемоизация и что это
-* хуки в реакте – что это
+* мемоизация и что это. Например, [тут](https://habr.com/ru/company/ruvds/blog/332384/), [тут](https://www.cat-in-web.ru/js-memoization/) или [тут](https://meline.lviv.ua/development/front-end/реализация-мемоизации-в-javascript/)  
+* хуки в реакте – что это.  Например, [тут](https://ru.reactjs.org/docs/hooks-intro.html), [тут](https://ru.reactjs.org/docs/hooks-overview.html) или [тут](https://habr.com/ru/post/429712/)
 
 ## Use memo
 
