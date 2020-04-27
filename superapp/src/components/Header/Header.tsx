@@ -1,13 +1,18 @@
 import React from 'react';
 
 import {Props} from './types';
+import Icon from '../Icon';
 
 import logo from '../../assets/images/logo.svg';
 import './Header.css';
 
 const Header: Props = ({link}) => (
     <header className="header">
-        <img src={logo} className="header-logo" alt="logo"/>
+        <Icon
+            src={logo}
+            className="someAdvClassName"
+            alt="logo"
+        />
 
         <p>
             Edit <code>src/containers/App/App.tsx</code> and save to reload.
