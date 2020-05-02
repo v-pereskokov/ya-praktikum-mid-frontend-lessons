@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ya-praktikum-mid-frontend-lessons/static/css/main.baceee75.chunk.css",
+    "main.js": "/ya-praktikum-mid-frontend-lessons/static/js/main.3352c835.chunk.js",
+    "main.js.map": "/ya-praktikum-mid-frontend-lessons/static/js/main.3352c835.chunk.js.map",
+    "runtime-main.js": "/ya-praktikum-mid-frontend-lessons/static/js/runtime-main.e7a95dc7.js",
+    "runtime-main.js.map": "/ya-praktikum-mid-frontend-lessons/static/js/runtime-main.e7a95dc7.js.map",
+    "static/js/2.3ad7a45c.chunk.js": "/ya-praktikum-mid-frontend-lessons/static/js/2.3ad7a45c.chunk.js",
+    "static/js/2.3ad7a45c.chunk.js.map": "/ya-praktikum-mid-frontend-lessons/static/js/2.3ad7a45c.chunk.js.map",
+    "index.html": "/ya-praktikum-mid-frontend-lessons/index.html",
+    "precache-manifest.feba6d5c6f1817efc22772d9e84b6e13.js": "/ya-praktikum-mid-frontend-lessons/precache-manifest.feba6d5c6f1817efc22772d9e84b6e13.js",
+    "service-worker.js": "/ya-praktikum-mid-frontend-lessons/service-worker.js",
+    "static/css/main.baceee75.chunk.css.map": "/ya-praktikum-mid-frontend-lessons/static/css/main.baceee75.chunk.css.map",
+    "static/js/2.3ad7a45c.chunk.js.LICENSE.txt": "/ya-praktikum-mid-frontend-lessons/static/js/2.3ad7a45c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a95dc7.js",
+    "static/js/2.3ad7a45c.chunk.js",
+    "static/css/main.baceee75.chunk.css",
+    "static/js/main.3352c835.chunk.js"
+  ]
+}
