@@ -5,6 +5,10 @@
 * [Используем типы компонент](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-2)
 * [Компоненты классы](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-3)
 
+* [**Вебинар 1**](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/webinar-01)
+
+* [React Router](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
+
 ### Готовится
 * [Функциональные компоненты](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-4)
 * [HTTP](https://github.com/vladpereskokov/ya-praktikum-mid-frontend-lessons/tree/lesson-5)
