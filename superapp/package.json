@@ -21,7 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "deploy": "PUBLIC_URL='/ya-praktikum-mid-frontend-lessons' npm run build && mv build/* ../",
+    "deploy": "PUBLIC_URL='/ya-praktikum-mid-frontend-lessons' npm run build && cp -rf build/* ../",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

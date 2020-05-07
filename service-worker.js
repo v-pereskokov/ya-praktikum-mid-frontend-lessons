@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ya-praktikum-mid-frontend-lessons/precache-manifest.feba6d5c6f1817efc22772d9e84b6e13.js"
+  "/ya-praktikum-mid-frontend-lessons/precache-manifest.e040a7b035d91c9dbac38bded8dc734e.js"
 );
 
 self.addEventListener('message', (event) => {
