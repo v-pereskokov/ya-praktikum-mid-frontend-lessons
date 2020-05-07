@@ -2,7 +2,7 @@
 
 Ниже представлен код, в котором используется Роутинг. Чтобы переключаться между путями используем:
 * `<Link/>`;
-* `<Redirect/>`;
+* `<Redirect/>`; // Можно проверить, перейдя по ссылке [/users/redirects](http://localhost:3000/users/redirect)
 * `history.push('/path')`;
 
 * [Весь код можно увидеть тут](/superapp/src/containers/App/App.tsx), но вставка ниже
